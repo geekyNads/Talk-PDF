@@ -7,7 +7,7 @@ Read less. Listen more. Turn any PDF into an audiobook, right in the browser.
 No build step. Serve the folder with any static server, then open it in Chrome, Edge, or Safari:
 
 ```bash
-cd talkpdf
+cd Talk-PDF
 python3 -m http.server 8080
 # open http://localhost:8080
 ```
